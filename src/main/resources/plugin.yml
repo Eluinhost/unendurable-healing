@@ -1,0 +1,5 @@
+name: UnendurableHealing
+main: gg.uhc.unendurablehealing.Entry
+version: 1.0.0
+author: ghowden/Eluinhost
+database: false
